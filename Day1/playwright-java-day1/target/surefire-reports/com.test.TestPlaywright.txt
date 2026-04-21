@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.test.TestPlaywright
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.662 s <<< FAILURE! -- in com.test.TestPlaywright
+com.test.TestPlaywright.testExample -- Time elapsed: 5.634 s <<< FAILURE!
+java.lang.AssertionError: Title msismatch expected [Example Domain1] but found [Example Domain]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at com.test.TestPlaywright.testExample(TestPlaywright.java:32)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
