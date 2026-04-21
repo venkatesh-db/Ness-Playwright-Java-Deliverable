@@ -1,0 +1,6 @@
+com\test\base\BaseTest.class
+com\test\tests\AmazonTest.class
+com\test\pages\HomePage.class
+com\test\PlaywrightDebugTest.class
+com\test\utils\Config.class
+com\test\pages\ProductPage.class
