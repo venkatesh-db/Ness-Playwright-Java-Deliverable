@@ -1,0 +1,6 @@
+com\day4\base\BaseTest.class
+com\day4\core\ThreadLocalManager.class
+com\day4\tests\EcommerceTest.class
+com\day4\core\PlaywrightFactory.class
+com\day4\core\BrowserManager.class
+com\day4\utils\PerformanceTracker.class
