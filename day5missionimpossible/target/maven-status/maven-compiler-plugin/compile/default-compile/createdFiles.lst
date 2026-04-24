@@ -1,0 +1,4 @@
+com\day5\core\DriverFactory.class
+com\day5\core\FlowParser.class
+com\day5\pages\ProductPage.class
+com\day5\pages\LoginPage.class
