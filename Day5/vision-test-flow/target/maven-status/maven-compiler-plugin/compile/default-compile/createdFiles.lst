@@ -1,0 +1,6 @@
+com\visiontestflow\pages\CartPage.class
+com\visiontestflow\core\FlowParser.class
+com\visiontestflow\pages\ProductPage.class
+com\visiontestflow\utils\LocatorUtil.class
+com\visiontestflow\pages\LoginPage.class
+com\visiontestflow\core\DriverFactory.class
